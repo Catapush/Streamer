@@ -1,7 +1,7 @@
 {
-  "name": "deminy/streamer",
+  "name": "catapush/streamer",
   "description": "Object-oriented API to PHP streams",
-  "homepage": "https://github.com/deminy/Streamer",
+  "homepage": "https://github.com/catapush/Streamer",
   "license": "MIT",
   "authors": [
     { "name": "Francois Zaninotto" },
